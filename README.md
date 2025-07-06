@@ -29,3 +29,5 @@ Este repositorio contiene el proyecto final de la materia **Introducción a la C
 **Yisela Mayorga Salazar**  
 Especialización en Analítica y Ciencia de Datos Aplicada  
 Universidad Tecnológica de Pereira
+
+📘 [Visualizar notebook en nbviewer](https://nbviewer.org/github/yiselams/EDA-violencia-intrafamiliar-colombia/blob/main/Trabajo_Final_YMS.ipynb)
